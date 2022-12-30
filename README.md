@@ -1,5 +1,5 @@
 # dev-mastery
-List of projects and technologies used throughout my learning. 🌱
+> List of my favorite projects and technologies used throughout my learning. 🌱
 
 ### Projects 📽️
 

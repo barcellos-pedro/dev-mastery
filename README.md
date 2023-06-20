@@ -9,7 +9,8 @@
 - [Games World Cup](https://github.com/barcellos-pedro/copa-games)
 - [Nextjs Blogr](https://github.com/barcellos-pedro/blogr-nextjs-prisma)
 - [Web app deploy](https://github.com/barcellos-pedro/poc-express-handlebars)
-- [Node.js OS Data](https://github.com/barcellos-pedro/nodejs-os-data)
+- [OS Data](https://github.com/barcellos-pedro/nodejs-os-data)
+- [Template engine](https://github.com/barcellos-pedro/nodejs-template-engine/)
 
 ### Masteries 🛠️
 

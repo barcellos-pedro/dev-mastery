@@ -12,6 +12,7 @@
 - [OS Data](https://github.com/barcellos-pedro/nodejs-os-data)
 - [Template engine](https://github.com/barcellos-pedro/nodejs-template-engine/)
 - [Tiny test](https://github.com/barcellos-pedro/tiny-test)
+- [Thane](https://github.com/barcellos-pedro/thane-js)
 
 ### Masteries 🛠️
 

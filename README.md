@@ -13,6 +13,7 @@
 - [Template engine](https://github.com/barcellos-pedro/nodejs-template-engine/)
 - [Tiny test](https://github.com/barcellos-pedro/tiny-test)
 - [Thane](https://github.com/barcellos-pedro/thane-js)
+- [Quick CLI](https://github.com/barcellos-pedro/quick-cli)
 
 ### Masteries 🛠️
 

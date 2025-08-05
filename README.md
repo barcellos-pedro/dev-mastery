@@ -17,6 +17,7 @@
 
 ### Masteries 🛠️
 
+- [Data Structures and Algorithms 🎲](https://github.com/barcellos-pedro/codesignal-dsa-python)
 - [Deno 🦕](https://github.com/barcellos-pedro/deno-mastery)
 - [React ⚛️](https://github.com/barcellos-pedro/react-mastery)
 - [Angular 🅰️](https://github.com/barcellos-pedro/angular-mastery)

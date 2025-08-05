@@ -1,6 +1,6 @@
-# Dev career
+# Dev Mastery
 
-> some projects and roadmaps i did to improve and learn. 🌱
+> List of my favorite projects and roadmaps done throughout my learning. 🌱
 
 ### Projects 📽️
 

@@ -1,5 +1,6 @@
-# dev-mastery
-> List of my favorite projects and technologies used throughout my learning. 🌱
+# Dev career
+
+> some projects and roadmaps i did to improve and learn. 🌱
 
 ### Projects 📽️
 
@@ -15,15 +16,10 @@
 - [Thane](https://github.com/barcellos-pedro/thane-js)
 - [Quick CLI](https://github.com/barcellos-pedro/quick-cli)
 
-### Masteries 🛠️
+### Roadmaps 🛣️
 
 - [Data Structures and Algorithms 🎲](https://github.com/barcellos-pedro/codesignal-dsa-python)
-- [Deno 🦕](https://github.com/barcellos-pedro/deno-mastery)
-- [React ⚛️](https://github.com/barcellos-pedro/react-mastery)
+- [Node.js/Deno 🦕](https://github.com/barcellos-pedro/deno-mastery)
 - [Angular 🅰️](https://github.com/barcellos-pedro/angular-mastery)
+- [React ⚛️](https://github.com/barcellos-pedro/react-mastery)
 - [Vue ❇️](https://github.com/barcellos-pedro/vue-mastery)
-
-### Year in a code 🌟
-(technologies I used to build stuff) 
-
-- [2022](https://github.com/barcellos-pedro/dev-mastery/blob/main/technologies/2022.md)

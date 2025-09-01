@@ -15,6 +15,7 @@
 - [Tiny test](https://github.com/barcellos-pedro/tiny-test)
 - [Thane](https://github.com/barcellos-pedro/thane-js)
 - [Quick CLI](https://github.com/barcellos-pedro/quick-cli)
+- [Portfolio/Github Project Stats](https://github.com/barcellos-pedro/spring-web-bio)
 
 ### Roadmaps 🛣️
 
